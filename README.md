@@ -1,2 +1,2 @@
-# deepak-careers-interests-website
-Python Developer (Flask)
+# deepak-career-interests-website
+Python Development (Flask)
